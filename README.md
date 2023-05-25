@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leiwang198506
 - 👀 I’m passionate about Data.
-- 🌱 I’m looking to collaborate on Data Analysis job. 
+- 🌱 I’m looking to collaborate on Data Analysis projects. 
 - 📫 How to reach me: leiwang198506@gmail.com
 
 <!---
